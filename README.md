@@ -13,15 +13,21 @@ Atualmente, estou cursando Técnico em Análise e Desenvolvimento de Sistemas na
 
 🌱 Aqui no GitHub, compartilho meus projetos, meus estudos e tudo o que venho construindo nessa jornada como desenvolvedor. Sempre que possível, busco colaborar e ajudar outros devs também — porque crescer junto é ainda melhor. 🚀
 
-<div> 
-  <a href="https://www.instagram.com/guiznxrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermerar2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://www.instagram.com/guiznxrr/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:guilhermerar2005@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://drive.google.com/uc?export=download&id=1IeXHT-GJFdUfx7kz3fNgp2yFQf-aCKop" target="_blank">
-  <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
+  </a>
+</p>
 
-</div>
 
 ##
 
@@ -64,24 +70,30 @@ Atualmente, estou cursando Técnico em Análise e Desenvolvimento de Sistemas na
 <br/>
 
 ##
-### 📊 Estatísticas
 
-<img 
-    align="left" 
+<h3 align="center">📊 Estatísticas</h3>
+
+<p align="center">
+  <img 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=guilh-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+  />
+</p>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150"
-    style="padding-right: 10px;"
+<p align="center">
+  <img 
+    alt="Top Langs" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+  />
+</p>
 
-<br/>
-<br/>
 
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
