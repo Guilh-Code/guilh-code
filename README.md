@@ -79,7 +79,7 @@ Aqui no GitHub, compartilho meus projetos, meus estudos e tudo o que venho const
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
