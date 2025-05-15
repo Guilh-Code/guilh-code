@@ -6,7 +6,7 @@
 
 **`Análise e Desenvolvimento de Sistemas`**
 
-💻 Me chamo Guilherme Rodrigues Almeida Rosa, tenho 20 anos e sou de São Paulo - SP.
+💻 Me chamo Guilherme Rodrigues Almeida Rosa, tenho 19 anos e sou de São Paulo - SP.
 Atualmente, estou cursando Técnico em Análise e Desenvolvimento de Sistemas na UNICID.
 
 💡 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados na área. Gosto de desafios, de explorar novas ferramentas e transformar ideias em código.
