@@ -26,6 +26,9 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
   <a href="https://drive.google.com/uc?export=download&id=1IeXHT-GJFdUfx7kz3fNgp2yFQf-aCKop" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
   </a>
+  <a href="https://open.spotify.com/playlist/5EH1pL5Y8G2OgsfFrOOapX?si=FcivZdQzQ4qBycN6KJgzTA" target="_blank">
+    <img src="https://img.shields.io/badge/Tocar%20Playlist-%F0%9F%8E%A7%20Lo--Fi%20Focus-green?style=for-the-badge&logo=spotify" alt="Playlist Lo-Fi Spotify">
+  </a>
 </p>
 
 
