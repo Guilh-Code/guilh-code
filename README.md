@@ -26,6 +26,9 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
   <a href="https://drive.google.com/uc?export=download&id=1IeXHT-GJFdUfx7kz3fNgp2yFQf-aCKop" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
   </a>
+  <a href="https://github.com/guilh-code" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=guilh-code&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</a>
 </p>
 
 
