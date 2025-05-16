@@ -20,9 +20,9 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
   <a href="mailto:guilhermerar2005@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
   <a href="https://drive.google.com/uc?export=download&id=1IeXHT-GJFdUfx7kz3fNgp2yFQf-aCKop" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
   </a>
