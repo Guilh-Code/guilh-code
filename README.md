@@ -47,22 +47,16 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-      alt="JavaScript" 
-      title="JavaScript"
+      alt="Python" 
+      title="Python"
       width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
       alt="Git" 
       title="Git"
       width="50px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-      alt="Python" 
-      title="Python"
-      width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
 </p>
 
