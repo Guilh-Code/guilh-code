@@ -66,6 +66,11 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
 <br/>
 <br/>
 
+<p align="center">
+  <img src="https://github.com/guilh-code/guilh-code/blob/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+
 ##
 
 <h3 align="center">📊 Estatísticas</h3>
