@@ -66,6 +66,25 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
 <br/>
 <br/>
 
+## 📚 Projeto em Destaque: Organizador de Bolsas de Estudo
+
+Um sistema em Python para organizar e visualizar bolsas de estudo de maneira simples e eficiente no terminal. Com menu interativo, cores, ordenação personalizada e exportação para `.csv`.
+
+### ⚙️ Funcionalidades:
+
+- Cadastrar bolsas de estudo (com nome, instituição, valor, modalidade e prazo)
+- Listar e buscar bolsas por nome ou instituição
+- Ordenação por nome usando algoritmo QuickSort
+- Interface colorida e intuitiva no terminal
+- Exportação das bolsas para arquivo `.csv`
+- Armazenamento dos dados em `.json`
+
+### 🛠️ Tecnologias usadas:
+`Python`, `CSV`, `JSON`, `ANSI Escape Codes`, `Algoritmos`
+
+🔗 [Acesse o repositório do projeto](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos)
+
+
 <p align="center">
   <img src="https://github.com/guilh-code/guilh-code/blob/output/github-snake.svg" alt="Snake animation" />
 </p>
@@ -73,29 +92,5 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
 
 ##
 
-<h3 align="center">📊 Estatísticas</h3>
-
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=guilh-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilh-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
-
 ---
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
