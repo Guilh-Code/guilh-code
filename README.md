@@ -86,9 +86,9 @@ Um sistema em Python para organizar e visualizar bolsas de estudo de maneira sim
 
 ## 📥 Download
 
-Baixe a versão compilada do Organizador de Bolsas de Estudo para Windows clicando aqui:
+Baixe a versão compilada do Organizador de Bolsas de Estudo para Windows [clicando aqui](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos/releases).
 
-[clicando aqui](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos/releases).
+
 
 
 
