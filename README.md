@@ -70,26 +70,11 @@ Atualmente, estou cursando o primeiro semestre de Técnico em Análise e Desenvo
 
 Um sistema em Python para organizar e visualizar bolsas de estudo de maneira simples e eficiente no terminal. Com menu interativo, cores, ordenação personalizada e exportação para `.csv`.
 
-### ⚙️ Funcionalidades:
-
-- Cadastrar bolsas de estudo (com nome, instituição, valor, modalidade e prazo)
-- Listar e buscar bolsas por nome ou instituição
-- Ordenação por nome usando algoritmo QuickSort
-- Interface colorida e intuitiva no terminal
-- Exportação das bolsas para arquivo `.csv`
-- Armazenamento dos dados em `.json`
-
-### 🛠️ Tecnologias usadas:
-`Python`, `CSV`, `JSON`, `ANSI Escape Codes`, `Algoritmos`
-
 🔗 [Acesse o repositório do projeto](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos)
 
 ## 📥 Download
 
 Baixe a versão compilada do Organizador de Bolsas de Estudo para Windows [clicando aqui](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos/releases).
-
-
-
 
 
 
