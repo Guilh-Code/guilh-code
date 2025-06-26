@@ -2,16 +2,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=1000&color=C792EA&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World+!+;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+Tecnologia+e+Código;Bem-vindo+ao+meu+GitHub!">
 </p>
 
-# 👨🏻‍💻 Guilherme Rodrigues
+# 👨🏻‍💻 Guilherme Rodrigues Almeida Rosa
 
-**`Análise e Desenvolvimento de Sistemas`**
 
-💻 Me chamo Guilherme Rodrigues Almeida Rosa, tenho 19 anos e sou de São Paulo - SP.
-Atualmente, estou cursando o 2º semestre de Técnico em Análise e Desenvolvimento de Sistemas na UNICID.
+### Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Back-End
 
-💡 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados na área. Gosto de desafios, de explorar novas ferramentas e transformar ideias em código.
+💻 **Sobre Mim**:  
+Estudante apaixonado por tecnologia com foco em desenvolvimento Back-End. Atualmente no 2º semestre de ADS, me dedico ao aprendizado prático de **Python** e conceitos fundamentais como **lógica de programação** e **estruturas de dados**.
 
-🌱 Aqui no GitHub, compartilho meus projetos, meus estudos e tudo o que venho construindo nessa jornada como desenvolvedor. Sempre que possível, busco colaborar e ajudar outros devs também — porque crescer junto é ainda melhor. 🚀
+🛠️ **Projetos**:  
+Desenvolvi um [Organizador de Bolsas de Estudo](#) em Python, explorando manipulação de dados e boas práticas de código. Utilizo o GitHub para documentar minha jornada e evolução constante na programação.
+
+🌱 **Atualmente aprendendo**:  
+- Programação Orientada a Objetos em Python  
+- Fundamentos de Análise de Dados  
+- Melhores práticas de versionamento com Git  
+
+💬 **Vamos conectar!**  
+Aberto para colaborações e oportunidades de estágio onde eu possa contribuir e crescer como desenvolvedor.
 
 <p align="center">
   <a href="https://www.instagram.com/guiznxrr/" target="_blank">
