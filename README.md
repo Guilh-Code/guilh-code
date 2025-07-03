@@ -54,7 +54,7 @@ Aberto para colaborações e oportunidades de estágio onde eu possa contribuir 
   <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-  <a href="https://drive.google.com/file/d/1pgbxDbcBajp_zIG-Ayh2G9ZRy27nlOqN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1M5O9w03ASlo0AG6kaD9R1lhU0u4nIGTs/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
   </a>
   <a href="https://github.com/guilh-code" target="_blank">
