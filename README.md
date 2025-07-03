@@ -1,24 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=1000&color=C792EA&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World+!+;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+Tecnologia+e+Código;Bem-vindo+ao+meu+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=1000&color=C792EA&center=true&vCenter=true&width=700&height=60&lines=Desenvolvedor+Python+|+Análise+de+Dados;Transformando+Dados+em+Insights;Bem-vindo+ao+meu+GitHub!">
 </p>
 
 # 👨🏻‍💻 Guilherme Rodrigues Almeida Rosa
 
-
 ### Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Back-End
 
-💻 **Sobre Mim**:  
-Estudante apaixonado por tecnologia com foco em desenvolvimento Back-End. Atualmente no 2º semestre de ADS, me dedico ao aprendizado prático de **Python** e conceitos fundamentais como **lógica de programação** e **estruturas de dados**.
+---
 
-🛠️ **Projetos**:  
-Desenvolvi um [Organizador de Bolsas de Estudo](#) em Python, explorando manipulação de dados e boas práticas de código. Utilizo o GitHub para documentar minha jornada e evolução constante na programação.
+💻 **Sobre Mim**:
+Estudante apaixonado por tecnologia e desenvolvimento, atualmente no 2º semestre de Análise e Desenvolvimento de Sistemas. Minha paixão me leva ao aprendizado contínuo de **Python** e de conceitos fundamentais em **lógica de programação**, **estruturas de dados**, **Programação Orientada a Objetos (POO)** e **Análise de Dados**. Busco aplicar esses conhecimentos em projetos práticos, documentando minha jornada e evolução no GitHub.
 
-🌱 **Atualmente aprendendo**:  
-- Programação Orientada a Objetos em Python  
-- Fundamentos de Análise de Dados  
-- Melhores práticas de versionamento com Git  
+---
 
-💬 **Vamos conectar!**  
+## 📈 Projeto em Destaque: Sistema de Análise e Geração de Relatórios de Vendas para E-commerce
+
+Este é meu primeiro projeto mais profissional, onde apliquei um **pipeline completo de Data Science** utilizando **Python**. O objetivo foi transformar dados brutos de vendas em insights acionáveis através de um sistema robusto e modular.
+
+### 💡 Funcionalidades Chave:
+
+* **Manipulação de Dados (Pandas):** Carregamento, pré-processamento, limpeza e criação de métricas (ex: `Valor_Total_Venda`).
+* **Análise e Visualização (Matplotlib, Seaborn):** Geração de insights por meio de agrupamentos e criação de gráficos claros para vendas por categoria, região e tendências mensais, com exportação para PNG.
+* **Persistência de Dados (SQLite):** Implementação de um banco de dados para armazenamento e recuperação de informações, simulando um ambiente real de dados.
+* **Arquitetura POO:** Estruturação do código em classes (`DataManager`, `DatabaseManager`) para modularidade, escalabilidade e fácil manutenção.
+
+---
+
+**Detalhes do Projeto:**
+
+* **Acesse o Repositório Completo:** [Link para o repositório do projeto de E-commerce](https://github.com/Guilh-Code/Gerador_de_Relatorios_Personalizados_para_E-commerce_com_Dashboard)
+* **Explore a Documentação Detalhada (Jupyter Notebook):** [Link para o Jupyter Notebook no seu repositório](https://github.com/Guilh-Code/Gerador_de_Relatorios_Personalizados_para_E-commerce_com_Dashboard/blob/main/Analise_E-commerce_Explicada.ipynb)
+
+---
+
+🌱 **Atualmente aprendendo**:
+* Aprofundamento em **Programação Orientada a Objetos** e design de software.
+* Técnicas avançadas de **Análise e Visualização de Dados**.
+* **SQL** e otimização de consultas de banco de dados.
+* Boas práticas de **versionamento com Git** para colaboração e organização de projetos.
+
+---
+
+💬 **Vamos conectar!**
 Aberto para colaborações e oportunidades de estágio onde eu possa contribuir e crescer como desenvolvedor.
 
 <p align="center">
@@ -29,7 +52,7 @@ Aberto para colaborações e oportunidades de estágio onde eu possa contribuir 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/guilhrodrigues/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   <a href="https://drive.google.com/file/d/1pgbxDbcBajp_zIG-Ayh2G9ZRy27nlOqN/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-%2300C896?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
@@ -39,59 +62,61 @@ Aberto para colaborações e oportunidades de estágio onde eu possa contribuir 
 </a>
 </p>
 
-
-##
+---
 
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
 
 <p align="center">
   <img 
-      alt="HTML"
-      title="HTML" 
-      width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-      alt="CSS" 
-      title="CSS"
-      width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    alt="CSS" 
+    title="CSS"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-      alt="Python" 
-      title="Python"
-      width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-      alt="Git" 
-      title="Git"
-      width="50px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    alt="Git" 
+    title="Git"
+    width="50px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    alt="Pandas"
+    title="Pandas"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    alt="Matplotlib"
+    title="Matplotlib"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    alt="SQLite"
+    title="SQLite"
+    width="50px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
   />
 </p>
 
-<br/>
-<br/>
-
-## 📚 Projeto em Destaque: Organizador de Bolsas de Estudo
-
-Um sistema em Python para organizar e visualizar bolsas de estudo de maneira simples e eficiente no terminal. Com menu interativo, cores, ordenação personalizada e exportação para `.csv`.
-
-🔗 [Acesse o repositório do projeto](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos)
-
-## 📥 Download
-
-Baixe a versão compilada do Organizador de Bolsas de Estudo para Windows [clicando aqui](https://github.com/Guilh-Code/-Projeto-de-Organizador-de-Bolsas-de-Estudo-ou-Cursos-Gratuitos/releases).
-
-
+---
 
 <p align="center">
   <img src="https://github.com/guilh-code/guilh-code/blob/output/github-snake.svg" alt="Snake animation" />
 </p>
 
-
-##
-
 ---
+##
 
