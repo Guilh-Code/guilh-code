@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=1000&color=C792EA&center=true&vCenter=true&width=700&height=60&lines=Desenvolvedor+Python+|+Análise+de+Dados;Transformando+Dados+em+Insights;Bem-vindo+ao+meu+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=60&lines=Desenvolvedor+Python+|+Análise+de+Dados;Transformando+Dados+em+Insights;Bem-vindo+ao+meu+GitHub!">
 </p>
 
 # 👨🏻‍💻 Guilherme Rodrigues Almeida Rosa
