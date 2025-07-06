@@ -13,18 +13,23 @@ Estudante apaixonado por tecnologia e desenvolvimento, atualmente no 2º semestr
 
 ---
 
-## 📈 Projeto em Destaque: Sistema de Análise e Geração de Relatórios de Vendas para E-commerce
+# 🚀 Meus Projetos de Data Science & Análise de Dados
+
+Esta seção apresenta alguns dos projetos que desenvolvi, demonstrando minhas habilidades em análise de dados e desenvolvimento de soluções baseadas em dados.
+
+
+### 📈 Projeto 1: Sistema de Análise e Geração de Relatórios de Vendas para E-commerce
 
 Este é meu primeiro projeto mais profissional, onde apliquei um **pipeline completo de Data Science** utilizando **Python**. O objetivo foi transformar dados brutos de vendas em insights acionáveis através de um sistema robusto e modular.
 
-### 💡 Funcionalidades Chave:
+#### 💡 Funcionalidades Chave:
 
 * **Manipulação de Dados (Pandas):** Carregamento, pré-processamento, limpeza e criação de métricas (ex: `Valor_Total_Venda`).
 * **Análise e Visualização (Matplotlib, Seaborn):** Geração de insights por meio de agrupamentos e criação de gráficos claros para vendas por categoria, região e tendências mensais, com exportação para PNG.
 * **Persistência de Dados (SQLite):** Implementação de um banco de dados para armazenamento e recuperação de informações, simulando um ambiente real de dados.
 * **Arquitetura POO:** Estruturação do código em classes (`DataManager`, `DatabaseManager`) para modularidade, escalabilidade e fácil manutenção.
 
----
+
 
 **Detalhes do Projeto:**
 
@@ -32,6 +37,33 @@ Este é meu primeiro projeto mais profissional, onde apliquei um **pipeline comp
 * **Explore a Documentação Detalhada (Jupyter Notebook):** [Link para o Jupyter Notebook no seu repositório](https://github.com/Guilh-Code/Gerador_de_Relatorios_Personalizados_para_E-commerce_com_Dashboard/blob/main/Analise_E-commerce_Explicada.ipynb)
 
 ---
+
+### 📉 Projeto 2: Análise de Churn de Cartão de Crédito: Prevenindo o Cancelamento de Clientes
+
+Este projeto foca na identificação e compreensão dos fatores que levam clientes a cancelar seus cartões de crédito em uma grande empresa. Utilizei **Python** para analisar dados de clientes e extrair insights acionáveis para estratégias de retenção.
+
+#### 🎯 Objetivo Principal:
+
+* Identificar as principais razões por trás do aumento significativo no número de cancelamentos de cartões.
+* Determinar quais perfis de clientes têm maior tendência a cancelar o cartão.
+* Propor ações estratégicas para evitar o churn e minimizar prejuízos.
+
+#### 💡 Insights e Metodologia:
+
+* **Análise Exploratória de Dados (EDA):** Visualização e interpretação de diversos atributos dos clientes (ex: categoria de cartão, tempo de cliente, inatividade, limite de crédito) para identificar padrões de cancelamento.
+* **Identificação de Fatores Chave:** Descobri que a categoria do cartão (`Blue`), o tempo de relacionamento (primeiros 35 meses), a inatividade, o número de contatos do banco e o limite de crédito são fatores críticos para o churn.
+* **Recomendações Estratégicas:** Com base nos insights, foram propostas soluções como revisão de benefícios, programas de retenção, ações de reativação para clientes inativos, otimização da comunicação e revisão da política de limites.
+
+
+
+**Detalhes do Projeto:**
+
+* **Acesse o Repositório Completo:** [Link para o repositório do projeto de Churn](https://github.com/Guilh-Code/Reducao_de_Churn_em_Cartoes_de_Credito-Uma_Analise_Preditiva)
+* **Explore a Análise Detalhada (README do projeto):** [Link para o README do projeto de Churn](https://github.com/Guilh-Code/Reducao_de_Churn_em_Cartoes_de_Credito-Uma_Analise_Preditiva/blob/main/README.md)
+
+
+---
+
 
 🌱 **Atualmente aprendendo**:
 * Aprofundamento em **Programação Orientada a Objetos** e design de software.
