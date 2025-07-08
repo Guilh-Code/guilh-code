@@ -11,6 +11,12 @@
 💻 **Sobre Mim**:
 Estudante apaixonado por tecnologia e desenvolvimento, atualmente no 2º semestre de Análise e Desenvolvimento de Sistemas. Minha paixão me leva ao aprendizado contínuo de **Python** e de conceitos fundamentais em **lógica de programação**, **estruturas de dados**, **Programação Orientada a Objetos (POO)** e **Análise de Dados**. Busco aplicar esses conhecimentos em projetos práticos, documentando minha jornada e evolução no GitHub.
 
+<p align="center">
+  <a href="https://guilh-code.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-4169E1?style=for-the-badge&logo=googledocs&logoColor=white" alt="Acesse meu Portfólio">
+  </a>
+</p>
+
 ---
 
 # 🚀 Meus Projetos de Data Science & Análise de Dados
