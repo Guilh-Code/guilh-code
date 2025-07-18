@@ -23,6 +23,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º semestre), com foco em 
 
 Esta seção apresenta alguns dos projetos que desenvolvi, demonstrando minhas habilidades em análise de dados e desenvolvimento de soluções baseadas em dados.
 
+<br>
 
 ### 📈 Projeto 1: Sistema de Análise e Geração de Relatórios de Vendas para E-commerce
 
@@ -35,14 +36,15 @@ Este é meu primeiro projeto mais profissional, onde apliquei um **pipeline comp
 * **Persistência de Dados (SQLite):** Implementação de um banco de dados para armazenamento e recuperação de informações, simulando um ambiente real de dados.
 * **Arquitetura POO:** Estruturação do código em classes (`DataManager`, `DatabaseManager`) para modularidade, escalabilidade e fácil manutenção.
 
-
-
 **Detalhes do Projeto:**
 
 * **Acesse o Repositório Completo:** [Link para o repositório do projeto de E-commerce](https://github.com/Guilh-Code/Gerador_de_Relatorios_Personalizados_para_E-commerce_com_Dashboard)
 * **Explore a Documentação Detalhada (Jupyter Notebook):** [Link para o Jupyter Notebook no seu repositório](https://github.com/Guilh-Code/Gerador_de_Relatorios_Personalizados_para_E-commerce_com_Dashboard/blob/main/Analise_E-commerce_Explicada.ipynb)
 
+<br>
 ---
+<br>
+<br>
 
 ### 📉 Projeto 2: Análise de Churn de Cartão de Crédito: Prevenindo o Cancelamento de Clientes
 
@@ -67,9 +69,38 @@ Este projeto foca na identificação e compreensão dos fatores que levam client
 * **Acesse o Repositório Completo:** [Link para o repositório do projeto de Churn](https://github.com/Guilh-Code/Reducao_de_Churn_em_Cartoes_de_Credito-Uma_Analise_Preditiva)
 * **Explore a Análise Detalhada (README do projeto):** [Link para o README do projeto de Churn](https://github.com/Guilh-Code/Reducao_de_Churn_em_Cartoes_de_Credito-Uma_Analise_Preditiva/blob/main/README.md)
 
+<br>
+---
+<br>
+<br>
+
+### ✈️ Projeto 3: Previsão do Preço de Passagens Aéreas: Otimizando Custos de Viagem
+
+Este projeto concentra-se no desenvolvimento de um modelo de Machine Learning capaz de **prever o preço de passagens aéreas**, utilizando Python e bibliotecas como Pandas, Matplotlib, Seaborn e Scikit-learn. O objetivo principal é auxiliar na tomada de decisão estratégica para a compra de passagens, visando a otimização de custos.
+
+#### 🎯 Objetivo Principal:
+
+* Construir um modelo preditivo robusto para estimar o preço de passagens aéreas com base em características do voo.
+* Identificar os fatores mais influentes na precificação de passagens para fornecer insights de negócio acionáveis.
+* Auxiliar empresas e indivíduos a planejar compras de passagens de forma mais econômica.
+
+#### 💡 Insights e Metodologia:
+
+* **Análise Exploratória de Dados (EDA):** Realizamos uma análise aprofundada para entender a distribuição dos preços e o impacto de fatores como **companhia aérea**, **antecedência da compra (`days_left`)**, **horários de partida e chegada**, **cidades de origem e destino**, e, principalmente, a **classe do voo (Economy vs. Business)**.
+    * **Insights Chave:** Descobrimos que a **classe de voo** é o fator com maior impacto (Business class é 8-9x mais cara); comprar com pouca antecedência encarece a passagem; e companhias aéreas como Vistara e Air India têm preços significativamente mais altos.
+  
+* **Pré-processamento de Dados:** Aplicamos técnicas essenciais como **transformação logarítmica** na variável `price` (para lidar com a assimetria), **One-Hot Encoding** para variáveis categóricas e **escalonamento** para variáveis numéricas. Uma etapa crucial foi a remoção da coluna `flight` para reduzir a dimensionalidade e otimizar o modelo.
+
+* **Modelagem Preditiva:** Desenvolvemos um modelo de **Regressão Linear** que, mesmo sendo um modelo linear simples, alcançou um **R-quadrado (R2 Score) de mais de 91%** na escala logarítmica. Na escala original dos preços, o modelo obteve um **Erro Médio Absoluto (MAE) de aproximadamente R$ 4.573,64**. Este MAE é um excelente resultado, considerando a ampla gama de preços das passagens, indicando que o modelo é altamente preciso para o contexto.
+
+**Detalhes do Projeto:**
+
+* **Acesse o Repositório Completo:** [link para o repositório do projeto](https://github.com/Guilh-Code/Previsao_do_preco_de_passagem_aerea)
+* **Explore a Análise Detalhada (README do projeto):** [LINK_PARA_O_README_DETALHADO_DO_PROJETO](https://github.com/Guilh-Code/Previsao_do_preco_de_passagem_aerea/blob/main/README.md)
+* **Confira o Código Fonte e a Metodologia Completa (Jupyter Notebook):** [LINK_PARA_O_JUPYTER_NOTEBOOK_DO_PROJETO](https://github.com/Guilh-Code/Previsao_do_preco_de_passagem_aerea/blob/main/projeto.ipynb)
 
 ---
-
+<br>
 
 🌱 **Atualmente aprendendo**:
 * Aprofundamento em **Programação Orientada a Objetos** e design de software.
