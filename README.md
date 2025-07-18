@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 Guilherme Rodrigues Almeida Rosa
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Back-End
+### Estudante de Análise e Desenvolvimento de Sistemas | Analista de Dados | Data Science
 
 ---
 
