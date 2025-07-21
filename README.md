@@ -12,7 +12,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre), com foco em aprender e aplicar conhecimentos em **Python**, **lógica de programação**, **estruturas de dados**, **POO** e **Análise de Dados**. Tenho noções iniciais de **SQL** e busco consolidar a prática por meio de projetos próprios, documentando minha evolução por aqui.
 
 <p align="center">
-  <a href="https://guilh-code.github.io/Portfolio/" target="_blank">
+  <a href="https://guilhermerodriguestech.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-4169E1?style=for-the-badge&logo=googledocs&logoColor=white" alt="Acesse meu Portfólio">
   </a>
 </p>
