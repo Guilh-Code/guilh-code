@@ -19,6 +19,17 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º semestre), com foco em 
 
 ---
 
+
+🚀 **Minha Empresa – APE (Applied Programming & Engineering)**
+
+A APE é uma iniciativa de serviços digitais criada para ajudar pessoas e empresas a se posicionarem no mundo digital. Oferecemos **criação de portfólios personalizados**, **currículos otimizados**, **sites institucionais**, e **consultorias de presença online**.
+
+Fundei a APE com o objetivo de aplicar na prática meus conhecimentos em programação e design, desenvolvendo soluções reais em parceria com outros profissionais. Hoje atuamos de forma colaborativa, sempre buscando entregar valor com tecnologia acessível e bem feita.
+
+🔗 Site da APE: [Visite Por Aqui!!!](https://apetechnology.com.br/)
+
+---
+
 # 🚀 Meus Projetos de Data Science & Análise de Dados
 
 Esta seção apresenta alguns dos projetos que desenvolvi, demonstrando minhas habilidades em análise de dados e desenvolvimento de soluções baseadas em dados.
