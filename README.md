@@ -120,7 +120,7 @@ Acredito no aprendizado contínuo e compartilhado. Criei estes espaços no Notio
 ### 🌱 Foco Atual de Estudos
 
 - **Power BI:** Desenvolvimento de dashboards interativos e relatórios dinâmicos.
-- **SQL Avançado:** Otimização de consultas, procedures e funções para manipulação de grandes volumes de dados.
+- **SQL:** Otimização de consultas, procedures e funções para manipulação de grandes volumes de dados.
 - **Cloud (Básico):** Fundamentos de serviços de dados em nuvem (AWS/Azure).
 - **Projetos de ETL:** Construção de pipelines para extração, transformação e carga de dados.
 
