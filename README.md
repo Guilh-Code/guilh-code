@@ -95,6 +95,28 @@ Desenvolvi um sistema modular em **Python** para automatizar a análise e a gera
 
 ---
 
+### 📚 Guias de Estudo & Anotações Públicas
+
+Acredito no aprendizado contínuo e compartilhado. Criei estes espaços no Notion para documentar minha jornada de estudos e ajudar outros que estão no mesmo caminho.
+
+<div>
+  <h4>🐍 Guia de Python para Data Science</h4>
+  <p><em>Anotações e códigos práticos baseados no livro "Guia do Python para Data Science". Um diário de bordo da minha jornada para dominar as principais bibliotecas e conceitos da área.</em></p>
+  <a href="https://www.notion.so/guia-sql/Guia-do-Python-para-Data-Science-Anota-es-e-Pr-tica-26568acb257d805caca5d5d0163235b8?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar Guia no Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Guia de Python">
+  </a>
+</div>
+<br>
+<div>
+  <h4>🗄️ Guia de Estudos SQL: Teoria e Prática</h4>
+  <p><em>Meu caderno de estudos público do curso de SQL do professor Téo Calvo, com resumos, quizzes e checklists. Um material vivo para quem quer aprender junto e solidificar o conhecimento em bancos de dados.</em></p>
+  <a href="https://guia-sql.notion.site/Guia-de-Estudos-SQL-Teoria-e-Pr-tica-26968acb257d80d8a7eed9da9b7a213d" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar Guia no Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Guia de SQL">
+  </a>
+</div>
+
+---
+
 ### 🌱 Foco Atual de Estudos
 
 - **Power BI:** Desenvolvimento de dashboards interativos e relatórios dinâmicos.
