@@ -93,6 +93,20 @@ Desenvolvi um sistema modular em **Python** para automatizar a análise e a gera
 </p>
 </details>
 
+<details>
+<summary><strong>📊 Case 4: Criação de Feature Store para Modelagem Preditiva (Engenharia de Dados & SQL Avançado)</strong></summary>
+<br>
+ 
+Desenvolvi um pipeline <strong>ETL</strong> completo utilizando <strong>SQL avançado</strong> para transformar dados transacionais brutos em uma <strong>Feature Store</strong> otimizada. O projeto foca na engenharia de features para criar um perfil comportamental detalhado de cada usuário, estabelecendo a base de dados para futuros modelos de Machine Learning.
+ 
+- **Tecnologias:** SQL (SQLite), CTEs (Common Table Expressions), Funções de Janela (Window Functions).
+- **Metodologia:** Extração de dados brutos, transformação com agregações condicionais, cálculo de métricas em múltiplas janelas de tempo e construção de uma tabela analítica final consolidada por cliente.
+- **Resultado:** Criei uma tabela única e robusta com mais de 10 features comportamentais, pronta para ser consumida por algoritmos de Machine Learning para prever o engajamento e o comportamento dos usuários.
+
+<p>
+  <a href="https://github.com/Guilh-Code/Projeto-SQL-Preditivo-Engenharia-de-Features-para-Machine-Learning"><strong>Acessar Repositório &rarr;</strong></a> </p>
+</details>
+
 ---
 
 ### 📚 Guias de Estudo & Anotações Públicas
