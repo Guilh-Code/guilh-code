@@ -99,6 +99,20 @@
 > </p>
 </details>
 
+<details>
+<summary><strong>Case 5: Análise de Churn com SQL e Python (End-to-End)</strong></summary>
+<br>
+ 
+> Realizei uma <strong>análise de ponta a ponta</strong> para diagnosticar as causas de um aumento no <strong>Churn</strong> de clientes, utilizando <strong>SQL</strong> para a investigação profunda e <strong>Python (Pandas, Plotly)</strong> para construir um <strong>storytelling visual</strong> com os insights.
+>  
+> - <strong>Tecnologias:</strong> SQL (SQLite), Python, Pandas, Plotly.
+> - <strong>Resultado:</strong> Identifiquei um padrão de comportamento inesperado ('Binge and Bolt') e entreguei uma análise visual completa com hipóteses acionáveis para as equipes de negócio.
+>
+> <p>
+>   <a href="https://github.com/Guilh-Code/Projeto-SQL-Python-Analise-de-Churn"><strong>Acessar Repositório &rarr;</strong></a> 
+> </p>
+</details>
+
 ---
 
 ### 📚 Aprendizado Contínuo & Compartilhado
