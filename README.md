@@ -90,6 +90,7 @@
 <summary><strong>Case 3: Análise de Churn com SQL e Python (End-to-End)</strong></summary>
 <br>
  
+
 > * **O Desafio:** Investigar o aumento de cancelamentos (Churn) em uma plataforma de streaming.
 
 > * **A Solução:** Realizei uma análise em duas etapas, com **SQL** para exploração profunda e **Python (Plotly)** para o storytelling visual dos insights.
