@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+sou+o+Guilherme+Rodrigues!;Profissional+de+Dados+em+Forma%C3%A7%C3%A3o;Transformando+Dados+em+Insights+Estrat%C3%A9gicos" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+sou+o+Guilherme+Rodrigues!;Data+Analyst+em+Forma%C3%A7%C3%A3o;Dados+%26+Decis%C3%B5es+Estrat%C3%A9gicas" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -91,7 +91,9 @@
 <br>
  
 > * **O Desafio:** Investigar o aumento de cancelamentos (Churn) em uma plataforma de streaming.
+
 > * **A Solução:** Realizei uma análise em duas etapas, com **SQL** para exploração profunda e **Python (Plotly)** para o storytelling visual dos insights.
+
 > * **Resultado:** Identifiquei um padrão de comportamento inesperado ('Binge and Bolt') e entreguei hipóteses acionáveis para a equipe de negócio.
 >
 > <p>
