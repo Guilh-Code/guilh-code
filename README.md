@@ -110,10 +110,12 @@
 > </p>
 </details>
 
+
 <details>
 <summary><strong>Case 3: Análise de Churn com SQL e Python</strong></summary>
 <br>
  
+
 > * **O Desafio:** Investigar o aumento de Churn em uma plataforma de streaming.
 > * **A Solução:** Análise em duas etapas com **SQL** para exploração e **Python (Plotly)** para o storytelling visual.
 > * **Resultado:** Identificação de um padrão de comportamento inesperado ('Binge and Bolt') e hipóteses acionáveis.
