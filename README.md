@@ -62,7 +62,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ferramenta de Preparação de Dados (Full-Stack)</h3>
+      <h3 align="center">Ferramenta de Preparação de Dados<br>(Full-Stack)</h3>
       <p align="center">
         <a href="https://tradutor.apetechnology.com.br/" target="_blank">
           <img src="Inicio_Tradutor_DB.png" alt="Ferramenta de Tradução de Dados" width="100%">
