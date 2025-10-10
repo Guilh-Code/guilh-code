@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Análise de Vagas de Dados (SQL → Python/ML → Power BI)</h3>
+      <h3 align="center">Análise de Vagas de Dados<br>(SQL → Python/ML → Power BI)</h3>
       <p align="center">
         <a href="https://github.com/Guilh-Code/Analise-do-Mercado-de-Vagas-de-Ciencia-de-Dados-2025" target="_blank">
           <img src="Dashboard_Projeto_Vagas.png" alt="Dashboard do Projeto de Vagas em Data Science" width="100%">
