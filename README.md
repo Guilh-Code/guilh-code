@@ -18,11 +18,11 @@
 
 ### 💡 Sobre Mim
 
-📊 Profissional de Dados em formação com uma única missão: **transformar dados brutos em decisões de negócio claras e estratégicas**. Minha paixão é usar **Python, SQL e Machine Learning** para encontrar a história por trás dos números.
+🎓 Estudante de **Banco de Dados** com foco prático em **Ciência de Dados e Analytics**. Minha abordagem é ponta a ponta: atuo desde a engenharia e limpeza do dado bruto até a modelagem preditiva e visualização estratégica.
 
-🚀 Demonstro minha capacidade em projetos que cobrem o ciclo de vida completo dos dados. Meu projeto principal, uma **análise de ponta a ponta de vagas em Data Science**, começou com **Engenharia de Dados em SQL**, evoluiu para a criação de um **modelo preditivo de salários em Python (Machine Learning)** e culminou em um **dashboard interativo no Power BI** para a apresentação dos resultados.
+🛠️ Meus repositórios refletem desafios reais de mercado. Um destaque é meu projeto de **Análise de Vagas em Data Science**, onde apliquei **SQL Avançado** para engenharia de dados, treinei modelos de **Machine Learning em Python** para previsão de salários e construí um **Dashboard no Power BI** para tomada de decisão.
 
-✨ **Meu grande diferencial?** Além da análise técnica, sou o fundador da **APE Technology**, onde meu trabalho é criar soluções e produtos digitais para que profissionais consigam se destacar. Essa experiência me ensinou na prática a habilidade mais importante que o mercado busca: **saber comunicar valor**.
+💼 **Diferencial de Negócio:** Além do código, possuo vivência prática no desenvolvimento de soluções digitais na **[APE Technology](https://apetechnology.com.br/)**. Essa experiência me ensinou a traduzir requisitos técnicos em valor para o cliente e a dominar a **comunicação de dados** (Data Storytelling).
 
 ---
 
