@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Ol%C3%A1%2C+sou+o+Guilherme+Rodrigues!;Data+Analyst+em+Forma%C3%A7%C3%A3o;Dados+%26+Decis%C3%B5es+Estrat%C3%A9gicas" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&height=60&lines=Ol%C3%A1%2C+sou+o+Guilherme+Rodrigues!;Estagi%C3%A1rio+de+Governan%C3%A7a+e+BI;Dados%2C+Compliance+%26+Decis%C3%B5es" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -18,24 +18,20 @@
 
 ### 💡 Sobre Mim
 
-🎓 Estudante de **Banco de Dados** com foco prático em **Ciência de Dados e Analytics**. Minha abordagem é ponta a ponta: atuo desde a engenharia e limpeza do dado bruto até a modelagem preditiva e visualização estratégica.
+🎓 Estudante de **Banco de Dados** (Faculdade Impacta) e atual **Estagiário de Governança e BI no Grupo Travelex Confidence**. Minha atuação é focada em transformar dados complexos em inteligência de negócios, unindo análise financeira, monitoramento de riscos e aplicação rigorosa de compliance.
 
-🛠️ Meus repositórios refletem desafios reais de mercado. Um destaque é meu projeto de **Análise de Vagas em Data Science**, onde apliquei **SQL Avançado** para engenharia de dados, treinei modelos de **Machine Learning em Python** para previsão de salários e construí um **Dashboard no Power BI** para tomada de decisão.
+🛠️ Meus repositórios refletem desafios avançados de mercado. Atuo com engenharia de dados (**SQL Avançado**), estruturação de painéis analíticos (**Power BI**) e desenvolvimento de bases preditivas (**Machine Learning / Python**), sempre garantindo a segurança e a governança do dado (como regras de LGPD e RLS).
 
-💼 **Diferencial de Negócio:** Além do código, possuo vivência prática no desenvolvimento de soluções digitais na **[APE Technology](https://apetechnology.com.br/)**. Essa experiência me ensinou a traduzir requisitos técnicos em valor para o cliente e a dominar a **comunicação de dados** (Data Storytelling).
+💼 **Visão de Negócio:** Além do mundo corporativo financeiro, possuo vivência prática como fundador da **[APE Technology](https://apetechnology.com.br/)**, onde lidero o desenvolvimento de soluções digitais "End-to-End". Essa experiência me ensinou a ter "senso de dono", traduzindo requisitos técnicos em valor estratégico e dominando a comunicação de dados para executivos.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -46,35 +42,35 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Análise de Vagas de Dados<br>(SQL → Python/ML → Power BI)</h3>
+      <h3 align="center">Inteligência Financeira e Compliance<br>(Power BI & Governança)</h3>
       <p align="center">
-        <a href="https://github.com/Guilh-Code/Analise-do-Mercado-de-Vagas-de-Ciencia-de-Dados-2025" target="_blank">
-          <img src="Dashboard_Projeto_Vagas.png" alt="Dashboard do Projeto de Vagas em Data Science" width="100%">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNGI5Y2MzZWItZTg5NS00MzA5LThiOTUtYTYyOTMyNjlkOGRlIiwidCI6ImYzZDgzM2M2LWQ3ZGUtNDFjNC1hYTQ0LTMxZDc2YmYyNzA5YyJ9&pageName=a12a49b74f08f9b877c2" target="_blank">
+          <img src="Capa_Projeto_Cambio.webp" alt="Dashboard de Diagnóstico de Câmbio" width="100%">
         </a>
       </p>
       <p>
-        <strong>O Desafio:</strong> Analisar um dataset de vagas para extrair insights e construir um modelo de ML para prever salários.<br>
-        <strong>A Solução:</strong> Um pipeline em 3 etapas: Engenharia de Dados (SQL), Modelagem Preditiva (Python) e um dashboard de BI (Power BI).<br>
-        <strong>Resultado:</strong> Prova de capacidade de gerenciar o ciclo completo de um projeto de dados, com um modelo de R² de 62%.
+        <strong>O Desafio:</strong> Combinar análise financeira de alto nível do mercado de câmbio com o monitoramento ativo de riscos.<br>
+        <strong>A Solução:</strong> Desenvolvimento de um portal no Power BI atuando em duas frentes: Desempenho Global (volume financeiro PJ x demanda de tickets PF) e um painel investigativo de Compliance.<br>
+        <strong>Resultado:</strong> Ferramenta robusta com detecção de anomalias (outliers) via matrizes de dispersão e aplicação rigorosa de Governança, incluindo anonimização de dados (LGPD) e Segurança em Nível de Linha (RLS).
       </p>
       <p align="center">
-        <a href="https://github.com/Guilh-Code/Analise-do-Mercado-de-Vagas-de-Ciencia-de-Dados-2025"><strong>Ver Análise Completa &rarr;</strong></a>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNGI5Y2MzZWItZTg5NS00MzA5LThiOTUtYTYyOTMyNjlkOGRlIiwidCI6ImYzZDgzM2M2LWQ3ZGUtNDFjNC1hYTQ0LTMxZDc2YmYyNzA5YyJ9&pageName=a12a49b74f08f9b877c2"><strong>Ver Projeto Completo &rarr;</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ferramenta de Preparação de Dados<br>(Full-Stack)</h3>
+      <h3 align="center">Engenharia de Features com SQL<br>(Base Preditiva para ML)</h3>
       <p align="center">
-        <a href="https://tradutor.apetechnology.com.br/" target="_blank">
-          <img src="Inicio_Tradutor_DB.png" alt="Ferramenta de Tradução de Dados" width="100%">
+        <a href="https://github.com/Guilh-Code/Projeto-SQL-Preditivo-Engenharia-de-Features-para-Machine-Learning" target="_blank">
+          <img src="Capa_Projeto_SQL.webp" alt="Engenharia de Features com SQL" width="100%">
         </a>
       </p>
       <p>
-        <strong>O Desafio:</strong> Eliminar o trabalho manual de traduzir datasets em inglês para análise.<br>
-        <strong>A Solução:</strong> Uma aplicação web Full-Stack (SvelteKit + PHP) que permite upload de CSV, tradução e download em múltiplos formatos (JSON, XLSX, DB).<br>
-        <strong>Resultado:</strong> Uma ferramenta prática que acelera o workflow de analistas de dados e demonstra competência Full-Stack.
+        <strong>O Desafio:</strong> Transformar dados transacionais brutos em uma base analítica de alta performance (Feature Store) para alimentar modelos preditivos.<br>
+        <strong>A Solução:</strong> Construção de um pipeline ETL completo utilizando exclusivamente SQL Avançado, com aplicação de CTEs e Funções de Janela (Window Functions) para criar métricas de comportamento.<br>
+        <strong>Resultado:</strong> Uma tabela robusta que acelera o desenvolvimento de Machine Learning, garantindo dados otimizados para análises ágeis e precisas.
       </p>
       <p align="center">
-        <a href="https://tradutor.apetechnology.com.br/"><strong>Acessar Ferramenta &rarr;</strong></a>
+        <a href="https://github.com/Guilh-Code/Projeto-SQL-Preditivo-Engenharia-de-Features-para-Machine-Learning"><strong>Acessar Repositório &rarr;</strong></a>
       </p>
     </td>
   </tr>
@@ -85,20 +81,33 @@
 ## 📊 Outros Projetos Notáveis
 
 <details>
-<summary><strong>Case 1: Engenharia de Features com SQL Avançado</strong></summary>
+<summary><strong>Case: Análise de Vagas de Dados (SQL → Python/ML → Power BI)</strong></summary>
 <br>
 
-> * **O Desafio:** Transformar dados brutos em uma **Feature Store** otimizada para ML.
-> * **A Solução:** Um pipeline ETL **100% em SQL**, usando **CTEs** e **Funções de Janela**.
-> * **Resultado:** Uma tabela analítica de alta performance que **acelera o desenvolvimento de modelos preditivos**.
+> * **O Desafio:** Analisar um dataset de vagas para extrair insights e construir um modelo de ML para prever salários.
+> * **A Solução:** Um pipeline em 3 etapas: Engenharia de Dados (SQL), Modelagem Preditiva (Python) e um dashboard de BI (Power BI).
+> * **Resultado:** Prova de capacidade de gerenciar o ciclo completo de um projeto de dados, com um modelo de R² de 62%.
 >
 > <p>
->   <a href="https://github.com/Guilh-Code/Projeto-SQL-Preditivo-Engenharia-de-Features-para-Machine-Learning"><strong>Acessar Repositório &rarr;</strong></a> 
+>   <a href="https://github.com/Guilh-Code/Analise-do-Mercado-de-Vagas-de-Ciencia-de-Dados-2025"><strong>Acessar Repositório &rarr;</strong></a> 
 > </p>
 </details>
 
 <details>
-<summary><strong>Case 2: Previsão de Preços com Machine Learning (R² > 91%)</strong></summary>
+<summary><strong>Case: Ferramenta Full-Stack de Preparação de Dados</strong></summary>
+<br>
+
+> * **O Desafio:** Eliminar o trabalho manual de traduzir datasets em inglês para análise.
+> * **A Solução:** Aplicação web Full-Stack (SvelteKit + PHP) permitindo upload de CSV, tradução e download em múltiplos formatos (JSON, XLSX, DB).
+> * **Resultado:** Uma ferramenta prática que acelera o workflow de analistas de dados.
+>  
+> <p>
+>   <a href="https://tradutor.apetechnology.com.br/"><strong>Acessar Ferramenta &rarr;</strong></a>
+> </p>
+</details>
+
+<details>
+<summary><strong>Case: Previsão de Preços com Machine Learning (R² > 91%)</strong></summary>
 <br>
 
 > * **O Desafio:** Desenvolver um modelo preditivo para estimar o preço de passagens aéreas.
@@ -110,15 +119,13 @@
 > </p>
 </details>
 
-
 <details>
-<summary><strong>Case 3: Análise de Churn com SQL e Python</strong></summary>
+<summary><strong>Case: Análise de Churn com SQL e Python</strong></summary>
 <br>
- 
-
+ 
 > * **O Desafio:** Investigar o aumento de Churn em uma plataforma de streaming.
-> * **A Solução:** Análise em duas etapas com **SQL** para exploração e **Python (Plotly)** para o storytelling visual.
-> * **Resultado:** Identificação de um padrão de comportamento inesperado ('Binge and Bolt') e hipóteses acionáveis.
+> * **A Solução:** Análise exploratória com **SQL** e storytelling visual com **Python (Plotly)**.
+> * **Resultado:** Identificação de padrões críticos e geração de hipóteses acionáveis.
 >
 > <p>
 >   <a href="https://github.com/Guilh-Code/Projeto-SQL-Python-Analise-de-Churn"><strong>Acessar Repositório &rarr;</strong></a> 
@@ -146,11 +153,11 @@ Acredito que o conhecimento só tem valor quando é compartilhado. Estes são me
 
 ---
 
-### 🚀 Próximos Passos & Tecnologias em Foco
+### 🚀 Próximos Passos & Foco Atual
 
-- **Power BI:** Aprimoramento em DAX e modelagem avançada.
-- **Cloud (AWS/Azure):** Estudo de serviços de dados como S3, Glue e Redshift.
-- **Pipelines de Dados:** Construção de pipelines mais robustos com ferramentas de orquestração.
+- **Governança de Dados:** Aprofundamento em frameworks de compliance e segurança no ecossistema financeiro.
+- **Power BI Avançado:** Domínio de DAX complexo e modelagem semântica voltada para grandes volumes de dados.
+- **Cloud & Engenharia:** Exploração de soluções de nuvem para orquestração de pipelines.
 
 ---
 <p align="center">
