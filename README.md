@@ -49,8 +49,8 @@
         </a>
       </p>
       <p>
-        <strong>O Desafio:</strong> Combinar análise financeira de alto nível do mercado de câmbio com o monitoramento ativo de riscos.<br>
-        <strong>A Solução:</strong> Desenvolvimento de um portal no Power BI atuando em duas frentes: Desempenho Global (volume financeiro PJ x demanda de tickets PF) e um painel investigativo de Compliance.<br>
+        <strong>O Desafio:</strong> Combinar análise financeira de alto nível do mercado de câmbio com o monitoramento ativo de riscos.<br><br>
+        <strong>A Solução:</strong> Desenvolvimento de um portal no Power BI atuando em duas frentes: Desempenho Global (volume financeiro PJ x demanda de tickets PF) e um painel investigativo de Compliance.<br><br>
         <strong>Resultado:</strong> Ferramenta robusta com detecção de anomalias (outliers) via matrizes de dispersão e aplicação rigorosa de Governança, incluindo anonimização de dados (LGPD) e Segurança em Nível de Linha (RLS).
       </p>
       <p align="center">
@@ -65,8 +65,8 @@
         </a>
       </p>
       <p>
-        <strong>O Desafio:</strong> Transformar dados transacionais brutos em uma base analítica de alta performance (Feature Store) para alimentar modelos preditivos.<br>
-        <strong>A Solução:</strong> Construção de um pipeline ETL completo utilizando exclusivamente SQL Avançado, com aplicação de CTEs e Funções de Janela (Window Functions) para criar métricas de comportamento.<br>
+        <strong>O Desafio:</strong> Transformar dados transacionais brutos em uma base analítica de alta performance (Feature Store) para alimentar modelos preditivos.<br><br>
+        <strong>A Solução:</strong> Construção de um pipeline ETL completo utilizando exclusivamente SQL Avançado, com aplicação de CTEs e Funções de Janela (Window Functions) para criar métricas de comportamento.<br><br>
         <strong>Resultado:</strong> Uma tabela robusta que acelera o desenvolvimento de Machine Learning, garantindo dados otimizados para análises ágeis e precisas.
       </p>
       <p align="center">
